@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "dependencies": {
+    "nanoassert": "^1.1.0"
+  },
+  "devDependencies": {
+    "hyperscript": "^2.0.2",
+    "standard": "^12.0.1",
+    "tape": "^4.9.1"
+  }
+}
